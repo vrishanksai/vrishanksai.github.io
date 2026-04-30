@@ -26,7 +26,7 @@ PYGMENTS_STYLE_DARK = 'native'  # Dark mode
 STATIC_PATHS = ['images']
 SITELOGO = '/images/vrishank.png'
 
-# Feed generation is usually not desired when developing
+# Feed generation is usually not desired when developing/
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
